@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-2723e1d35f04aabd53ef99ad0956e28d6f15fe54.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-356628d3b3c5df941e483f9975542cfb99acf7eb.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-23.4.0-ec35523187be34031180147d621908526fded4cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Trung Nguyen\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-1b5d91fca44ae47203e180512e5c68e0ca6c886f.jar" />
+    </item>
+    <item
+        jar="D:\Soft\android-sdk_r24.4-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-23.4.0-af0e5a5ecca47c77cd247b11e8e240394d2cb856.jar" />
+    </item>
+    <item
+        jar="C:\Users\Trung Nguyen\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.13.0-56d07de9e5a9d3fe45986f14c01c934036fe6a15.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-4ebb1f8e8c1ed107bd6877cd600ab8f8c744f3ce.jar" />
+    </item>
+    <item
+        jar="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Android\AndroidStudioProjects2\TestMusic\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-0ee0537e3945a353571af926cb2d680b84a6ef41.jar" />
+    </item>
+
+</items>
